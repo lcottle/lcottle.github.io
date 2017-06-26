@@ -1,0 +1,27 @@
+h1 {
+	color: black;
+	font-weight: bold;
+	background-color: pink;
+}
+body{
+	margin-left: 10%;
+	margin-right:10%;
+	background color: white;
+	text-align: center;
+	font-family: cursive;
+}
+h2 {
+	background-color: : purple;
+}
+
+p {font-weight: bold;
+
+}
+
+img{
+	width: auto;
+	height: 250;
+	display: block;
+	padding-top: 5%;
+	margin: auto;
+}
